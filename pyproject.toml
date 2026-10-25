@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dockbuddy-catalysis"
-version = "0.1.0"
+version = "0.1.1"
 description = "DockBuddy 酶催化机理分析(去酰化/通道/空腔/产物截面/滞留/构象熵)，解耦版本"
 readme = "README.md"
 requires-python = ">=3.8"
